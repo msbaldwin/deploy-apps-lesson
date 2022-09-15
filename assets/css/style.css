@@ -11,7 +11,9 @@ html, body {
 }
 
 body {
-    background-color:rgb(14, 13, 13);
+    background-color:#79c2d0;
+    text-align: justify;
+    color: #b6e1e0;
 }
 
 a {
@@ -19,7 +21,7 @@ a {
 }
 
 .custom-resume {
-    background-color:var(--light);
+    background-color: #00204a;
 }
 
 .custom-resume > div {
@@ -35,18 +37,18 @@ a {
 }
 
 .custom-text-cont h5 {
-    color: var(--primary) !important;
+    color: white;
 }
 
 .custom-text-cont i {
     border: 1px solid var(--primary);
     border-radius: 50%;
-    background-color: var(--primary);
-    color: var(--light);
+    background-color: white;
+    color: black;
 }
 
 .custom-profile > * {
-    background-color: var(--primary);
+    background-color: #5dacbd;
 }
 
 .custom-profile > div:last-child span {
@@ -58,7 +60,7 @@ a {
 }
 
 .custom-city {
-    color: var(--greyish);
+    color: white;
 }
 
 .custom-title {
@@ -66,7 +68,7 @@ a {
 }
 
 .custom-title span {
-    color: var(--greyish);
+    color: white;
 }
 
 img + p > span {
